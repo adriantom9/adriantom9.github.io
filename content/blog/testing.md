@@ -8,4 +8,4 @@ tags = [
 ]
 +++
 
-![](https://adriantom9.github.io/data/wife.png)
+![wife](images/wife.png)
